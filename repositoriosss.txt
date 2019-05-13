@@ -1,0 +1,18 @@
+#practica con control de versiones git
+print("hola, que tal?")
+
+
+
+###############
+#comando de GIT
+###############
+#git add .
+#git comit -m "el mensaje"
+#git push
+#git pull
+##############
+#comandos para navegar en la terminal
+
+#ls o dir (para ver los archivo exitentes)
+#cd nombre_de_archivo (para entrar en el archivo)
+#cd .. (para salir del archivo)
